@@ -1,12 +1,16 @@
 :wave: Hi! I'm Chirag
 
-Here is an overview of what's currently top of mind for me.
+I write Rust and Cairo.
 
-### Projects
+### Projects/Contrbutions
 
 #### Software
 
 - [reth][reth] (contributor)
+- [mev-rs][mev-rs] (contributor)
+- [geth][geth] (contributor)
+- [madara][madara] (contributor)
+- [beerus][beerus] (contributor)
 
 #### Tools
 
@@ -17,11 +21,12 @@ Here is an overview of what's currently top of mind for me.
 - [revm][revm] (contributor)
 
 
-<!-- [See more projects &rarr;][see-more] -->
 
-[reth]: https://github.com/paradigmxyz/reth
-[foundry]: https://github.com/foundry-rs/foundry
-[revm]: https://github.com/bluealloy/revm
-[ethers-rs]: https://github.com/gakonst/ethers-rs
-[ethers-flashbots]: https://github.com/onbjerg/ethers-flashbots
-[see-more]: https://github.com/onbjerg/onbjerg/blob/master/PROJECTS.md
+[reth]: https://github.com/paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Achirag-bgh
+[mev-rs]: https://github.com/ralexstokes/mev-rs/commits?author=chirag-bgh
+[geth]: https://github.com/ethereum/go-ethereum/commits?author=chirag-bgh
+[foundry]: https://github.com/foundry-rs/foundry](https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Achirag-bgh+
+[revm]: https://github.com/bluealloy/revm](https://github.com/bluealloy/revm/pulls?q=+is%3Apr+author%3Achirag-bgh+
+[madara]: https://github.com/keep-starknet-strange/madara](https://github.com/keep-starknet-strange/madara/pulls?q=author%3Achirag-bgh+
+[beerus]: https://github.com/keep-starknet-strange/beerus](https://github.com/keep-starknet-strange/beerus/pulls?q=+is%3Apr+author%3Achirag-bgh+
+
