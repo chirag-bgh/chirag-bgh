@@ -1,16 +1,27 @@
-### Hi there 👋
+:wave: Hi! I'm Chirag
 
-<!--
-**chirag-bgh/chirag-bgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is an overview of what's currently top of mind for me.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Software
+
+- [reth][reth] (contributor)
+
+#### Tools
+
+- [Foundry][foundry] (contributor)
+
+#### Libraries
+
+- [revm][revm] (contributor)
+
+
+<!-- [See more projects &rarr;][see-more] -->
+
+[reth]: https://github.com/paradigmxyz/reth
+[foundry]: https://github.com/foundry-rs/foundry
+[revm]: https://github.com/bluealloy/revm
+[ethers-rs]: https://github.com/gakonst/ethers-rs
+[ethers-flashbots]: https://github.com/onbjerg/ethers-flashbots
+[see-more]: https://github.com/onbjerg/onbjerg/blob/master/PROJECTS.md
