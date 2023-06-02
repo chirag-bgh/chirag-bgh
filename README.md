@@ -16,6 +16,7 @@ I write Rust and Cairo.
 #### Tools
 
 - [Foundry][foundry] (contributor)
+- [cairometer][cairometer] (author) 🔜
 
 #### Libraries
 
@@ -31,4 +32,5 @@ I write Rust and Cairo.
 [madara]: https://github.com/keep-starknet-strange/madara/pulls?q=author%3Achirag-bgh+
 [beerus]: https://github.com/keep-starknet-strange/beerus/pulls?q=+is%3Apr+author%3Achirag-bgh+
 [cairo]: https://github.com/starkware-libs/cairo/pulls?q=is%3Apr+author%3Achirag-bgh+
+[cairometer]: https://github.com/starkpay-labs/cairometer
 
