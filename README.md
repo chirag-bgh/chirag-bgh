@@ -2,6 +2,8 @@
 
 I write Rust and Cairo.
 
+Contact me on tg: chirag_bgh
+
 ### Projects/Contrbutions
 
 #### Software
