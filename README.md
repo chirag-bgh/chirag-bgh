@@ -1,6 +1,6 @@
 :wave: Hi! I'm Chirag
 
-I write Rust and Cairo.
+I write Rust 🦀
 
 Contact me on tg: chirag_bgh
 
@@ -18,11 +18,11 @@ Contact me on tg: chirag_bgh
 #### Tools
 
 - [Foundry][foundry] (contributor)
-- [cairometer][cairometer] (author) 🔜
 
 #### Libraries
 
 - [revm][revm] (contributor)
+- [libp2p-rs][libp2p-rs] (contributor)
 
 
 
@@ -34,5 +34,6 @@ Contact me on tg: chirag_bgh
 [madara]: https://github.com/keep-starknet-strange/madara/pulls?q=author%3Achirag-bgh+
 [beerus]: https://github.com/keep-starknet-strange/beerus/pulls?q=+is%3Apr+author%3Achirag-bgh+
 [cairo]: https://github.com/starkware-libs/cairo/pulls?q=is%3Apr+author%3Achirag-bgh+
-[cairometer]: https://github.com/starkpay-labs/cairometer
+[libp2p-rs]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Achirag-bgh
+
 
