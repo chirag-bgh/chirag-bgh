@@ -23,6 +23,8 @@ Contact me on tg: chirag_bgh
 
 - [revm][revm] (contributor)
 - [libp2p-rs][libp2p-rs] (contributor)
+- [ethereum-consensus][ethereum-consensus] (contributor)
+  
 
 
 
@@ -35,5 +37,7 @@ Contact me on tg: chirag_bgh
 [beerus]: https://github.com/keep-starknet-strange/beerus/pulls?q=+is%3Apr+author%3Achirag-bgh+
 [cairo]: https://github.com/starkware-libs/cairo/pulls?q=is%3Apr+author%3Achirag-bgh+
 [libp2p-rs]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Achirag-bgh
+[ethereum-consensus]: https://github.com/ralexstokes/ethereum-consensus/pulls?q=is%3Apr+author%3Achirag-bgh
+
 
 
